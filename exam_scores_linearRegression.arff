@@ -1,0 +1,11 @@
+@relation exam_scores
+
+@attribute hours_studied numeric
+@attribute exam_score numeric
+
+@data
+2, 50
+3, 60
+5, 80
+7, 90
+9, 100
